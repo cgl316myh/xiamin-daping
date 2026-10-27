@@ -1,0 +1,9 @@
+.codegraph/
+*.db
+*.db-shm
+*.db-wal
+.DS_Store
+Thumbs.db
+node_modules/
+.env
+.env.*
